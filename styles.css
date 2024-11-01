@@ -1,7 +1,7 @@
 body{
     color:black;
     background:rgb(0, 255, 255);
-    display: flex;
+    
 }
 
 header{
@@ -13,6 +13,7 @@ header{
 section{
  background: rgb(255, 166, 0);
  padding: 50px;
+ display: flex;
  
 }
 
